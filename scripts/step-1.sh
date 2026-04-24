@@ -74,6 +74,7 @@ echo "Install Essentials"
     sudo apt install zoxide -y
     sudo apt install fzf -y
     sudo apt install bash-completion -y
+    sudo apt install rsync -y
     sudo apt install bat -y
     sudo apt install eza -y
     wait
